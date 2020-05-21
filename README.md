@@ -2,3 +2,4 @@
 
 Here is an image.
 
+[Sample Image](sample-uml.svg)
